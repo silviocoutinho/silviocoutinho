@@ -1,6 +1,6 @@
 # Hello World! :wave: :wave:
 
-## 🎀 Welcome to my profile 🎀
+## Welcome to my profile
 
 
 ##
@@ -14,8 +14,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-<img align="left" alt="PHPSTORM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" />
 
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" />
 
